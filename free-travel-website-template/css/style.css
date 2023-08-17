@@ -14,14 +14,14 @@
   --orange: #fd7e14;
   --yellow: #ffc107;
   --green: #3d5074;
-  --teal: #20c997;
+  --teal: #3d5074;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #3d5074;
   --secondary: #3d5074;
-  --success: #28a745;
+  --success: #3d5074;
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #7AB730;
+  color: #3d5074;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #527a20;
+  color: #3d5074;
   text-decoration: underline;
 }
 
