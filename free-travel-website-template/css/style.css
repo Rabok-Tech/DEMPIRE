@@ -9754,17 +9754,17 @@ h6,
 .contact-info:hover {
   background-color: rgba(255, 255, 255, 0.2); /* Lighter translucent white background on hover */
 }
-
-
-
+.social-buttons {
+  display: inline-flex;
+  align-items: center;
+}
 
 .social-buttons a {
-  color: #3d5074;
+  color: grey;
   padding: 0.5rem;
   text-decoration: none;
 }
 
 .social-buttons a:hover {
-  color: black; /* Change the color on hover if desired */
+  color: black;
 }
-
