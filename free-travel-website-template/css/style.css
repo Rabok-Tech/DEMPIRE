@@ -9784,3 +9784,16 @@ h6,
   background-color: rgba(255, 255, 255, 0.2); /* Lighter translucent white background on hover */
 }
 
+
+
+
+.social-buttons a {
+  color: #3d5074;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.social-buttons a:hover {
+  color: black; /* Change the color on hover if desired */
+}
+
